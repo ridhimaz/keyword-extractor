@@ -1,4 +1,4 @@
-# Keyword Extractor Site
+# Keyword Extractor
 
 This project is a keyword extractor site built using Vite and React.
 
